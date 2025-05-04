@@ -1,5 +1,7 @@
 # 🌦️ Dashboard Prakiraan Cuaca 3 Harian - BMKG
 
+🌐 [Klik di sini untuk mencoba aplikasi langsung](https://dashboardbmkg.streamlit.app/)
+
 Aplikasi ini adalah dashboard interaktif berbasis **Streamlit** yang menampilkan prakiraan cuaca 3 harian berdasarkan data dari API **BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)**. Anda cukup memasukkan *kode wilayah* (`adm4`) untuk melihat informasi cuaca seperti suhu, kelembapan, dan deskripsi cuaca dari wilayah yang dipilih.
 
 ---
@@ -79,3 +81,10 @@ Pull request sangat diterima! Untuk perubahan besar, silakan buka *issue* terleb
 Dibuat oleh **Naufal Yogi Aptana**  
 🔗 [LinkedIn](https://www.linkedin.com/in/naufalyogiaptana)  
 💻 [GitHub](https://github.com/NaufalYogiAptana)
+
+---
+
+## 📊 Badge
+
+[![GitHub repo size](https://img.shields.io/github/repo-size/NaufalYogiAptana/Dashboard-Prakiraan-Cuaca)](https://github.com/NaufalYogiAptana/Dashboard-Prakiraan-Cuaca)  
+[![Streamlit Deploy](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboardbmkg.streamlit.app/)
