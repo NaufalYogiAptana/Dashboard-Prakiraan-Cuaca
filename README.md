@@ -26,8 +26,8 @@ Aplikasi ini adalah dashboard interaktif berbasis **Streamlit** yang menampilkan
 
 1. **Clone repositori ini**
     ```bash
-    git clone https://github.com/NaufalYogiAptana/nama-repo.git
-    cd nama-repo
+    git clone https://github.com/NaufalYogiAptana/Dashboard-Prakiraan-Cuaca.git
+    cd Dashboard-Prakiraan-Cuaca
     ```
 
 2. **Install dependensi**
